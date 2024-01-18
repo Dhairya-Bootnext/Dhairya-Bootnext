@@ -6,7 +6,7 @@
 I'm a CSE-AI Final Year student learning AI/ML and Data Science.
 Currently I am an Associate Software Engineer (Intern) @ **BootNext Techventures Pvt. Ltd**.
 
-[![github](https://media3.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=ecf05e474cyrik12gm54kxuk7nh4jjk8rs2rhmedd2y93hku&rid=giphy.gif&ct=g)](https://github.com/HeathKlifff)
+[![github](https://media4.giphy.com/media/Hrm0LJNRkPHDkLIHz9/giphy.gif?cid=ecf05e473zsmwur94dvdet1t5l74izkzhiyttqvc9i2nq609&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://github.com/HeathKlifff)
 
 ## 🔗 My LinkedIn Profile
 
